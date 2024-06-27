@@ -1,5 +1,5 @@
 <h1>Hello, I'm Hasibur Rahman! <br/><a href="https://github.com/hsbrRahman">Programmer</a>, <a href="https://www.linkedin.com/in/rahmanhasibur/">Software Engineer</a>, <a href="https://www.youtube.com/channel/UC8QfZXNxfdE0OTAoZE_z4bA">Aspiring YouTuber</a></h1>
-<h2>A recent computer science graduate with fundamental knowledge of software development and testing. I am seeking to utilize a broad educational background with excellent analytical, technical, and programming skills to thrive as a software developer.</h2>
+<h2>A computer science graduate with fundamental knowledge of software development and testing. I am seeking to utilize a broad educational background with excellent analytical, technical, and programming skills to thrive as a software developer.</h2>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
